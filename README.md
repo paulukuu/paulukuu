@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Paul 👋
 
-<!--
-**paulukuu/paulukuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance | Technology | Entrepreneurship | AI
 
-Here are some ideas to get you started:
+I'm a Lithuanian student at Gettysburg College, pursuing a double major in Economics and Business and Organizations and Management, graduating in May 2027.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background is primarily in finance and business, with experience in private equity, asset management, financial modeling, and business development. More recently, I've developed a strong interest in programming, artificial intelligence, and building technology-driven businesses.
+
+What I'm Working On:
+Exploring AI applications, automation, and software development
+Building projects that combine finance and technology
+Developing entrepreneurial ventures and digital products
+Improving my programming and analytical skills
+
+Areas of Interest:
+Artificial Intelligence & Machine Learning
+Financial Technology & Investment Analytics
+Entrepreneurship & Startups
+Software Development & Automation
+
+My Goal:
+To combine my background in finance and business with technical skills to develop innovative products, solve real-world problems, and build scalable businesses.
+
+Let's Connect:
+Always interested in connecting with people passionate about finance, technology, startups, and innovative ideas.
